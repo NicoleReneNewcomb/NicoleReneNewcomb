@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Lovely to meet you! My name is Nicole-Rene Newcomb.</h1>
+<h1 align="center">Lovely to meet you! My name's Nicole-Rene.</h1>
 <h3 align="center">Budding Software Engineer | Java, Python, C++, SQL, GIS, AWS, Cloud Computing</h3>
 
 - 🌱 I’m currently learning **Machine Learning for Natural Language Processing through Amazon Web Services**
