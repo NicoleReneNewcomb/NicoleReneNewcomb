@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Check out my custom Slack App Bot operated as a FaaS model on the cloud through AWS Lambda! [AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
 
--  
+- ☁️ Here's a word-guessing game I wrote to run on the cloud with AWS EC2 instances via SSH! [Python Word-Guessing Game](https://github.com/NicoleReneNewcomb/GitHub_Backups/blob/main/PYTHON/python_game_NRN.py)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
