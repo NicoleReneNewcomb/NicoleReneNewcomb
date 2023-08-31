@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Lovely to meet you! My name's Nicole-Rene.</h1>
 <h3 align="center">Budding Software Engineer | Java, Python, C++, SQL, GIS, AWS, Cloud Computing</h3>
+<p>A rising senior (B.S. Computer Science) with a strong history of effective collaboration and communication to achieve critical project goals. Eager to expand my developer skillset, I've invested 550+ hours in extracurricular training with Generation USA (cloud computing & AWS), Computing Talent Initiative, Adobe, and CodePath. Embracing feedback and continuous improvement to become a better team member, I love rapidly learning new concepts and tackling complex problems.</p>
 
 - 🌱 I’m currently learning **Machine Learning for Natural Language Processing through Amazon Web Services**
 
-- 👨‍💻 Check out my custom Slack App Bot operated as a FaaS model on the cloud through AWS Lambda [AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
+- 👨‍💻 Check out my custom Slack App Bot operated as a FaaS model on the cloud through AWS Lambda! [AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
+
+-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
