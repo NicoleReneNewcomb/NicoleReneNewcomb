@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning for Natural Language Processing through Amazon Web Services**
 
-- - 👨‍💻 Check out my custom Slack App Bot operated as a FaaS model on the cloud through AWS Lambda [AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
+- 👨‍💻 Check out my custom Slack App Bot operated as a FaaS model on the cloud through AWS Lambda [AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
