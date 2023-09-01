@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Lovely to meet you! My name's Nicole-Rene.</h1>
 <h3 align="center">Budding Software Engineer | Java, Python, C++, SQL, GIS, AWS, Cloud Computing</h3>
+
+### Please Note: I am Reorganizing my GitHub as of 8/31/2023, so this page will be changing
+
 <p>A rising senior (B.S. Computer Science) with a strong history of effective collaboration and communication to achieve critical project goals. Eager to expand my developer skillset, I've invested 550+ hours in extracurricular training with Generation USA (cloud computing & AWS), Computing Talent Initiative, Adobe, and CodePath. Embracing feedback and continuous improvement to become a better team member, I love rapidly learning new concepts and tackling complex problems.</p>
 
 - 🌱 I’m currently learning **Machine Learning for Natural Language Processing through Amazon Web Services**
