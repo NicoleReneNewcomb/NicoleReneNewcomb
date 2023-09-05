@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning for Natural Language Processing through Amazon Web Services**
 
-- 👨‍💻 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br />[AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)
+- 👨‍💻 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br />[GitHub - AWS Lambda Slack App Bot Project](https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package)<br /> [Adobe Express Page - More Details and Screenshots of App In-Action](https://new.express.adobe.com/webpage/design/urn:aaid:sc:VA6C2:90dc4c43-dc97-4b77-bbe9-e680a13553fd)
 
 - ☁️ Here's a word-guessing game I wrote to run on the cloud with AWS EC2 instances via SSH!<br />[Python Word-Guessing Game](https://github.com/NicoleReneNewcomb/GitHub_Backups/blob/main/PYTHON/python_game_NRN.py)
 
