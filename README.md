@@ -29,21 +29,17 @@ Here are some ideas to get you started:
 ### My Projects
 
 - 🤖 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br><br>
-<p style="padding-left: 5%";>
+
   <a href="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package">GitHub - AWS Lambda Slack App Bot Project</a><br>
-  <a href="https://new.express.adobe.com/webpage/NMa7ztqruDUYf">Adobe Express Page - More Details and Screenshots of App In-Action</a><br>
-  <img src="https://user-images.githubusercontent.com/112290345/265831988-031f8ac9-0f6c-4952-aaa1-bf3d23216783.png" alt="A painting of a friendly, smiling robot lady assistant wearing a blue dress with a blue parasol." height=200vh>
-  <img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/18d37ac5-4bb9-4b12-8768-c4bc24343456" alt="A screenshot of my Slack Bot's response to the slash cuteanimals command with a Slack message including an image of a baby chick peeking out from his mother's wing." height=200vh>
-  <img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/e0a5dc57-a0b2-48ad-9ed4-6941bd276f1c" alt="A Screenshot of the menu within Slack displaying the available slash commands for my bot." height=200vh><img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/af92b1f8-3c30-46fd-bec2-1119cfeefa70" alt="My Slack Bot responds with the information about potential target audience for a new product using the slash ChatGPT Slack command." height=200vh>
-</p><br>
+  <a href="https://new.express.adobe.com/webpage/NMa7ztqruDUYf">Adobe Express Page - More Details and Screenshots of App In-Action</a><br><img src="https://user-images.githubusercontent.com/112290345/265831988-031f8ac9-0f6c-4952-aaa1-bf3d23216783.png" alt="A painting of a friendly, smiling robot lady assistant wearing a blue dress with a blue parasol." height=200vh><img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/18d37ac5-4bb9-4b12-8768-c4bc24343456" alt="A screenshot of my Slack Bot's response to the slash cuteanimals command with a Slack message including an image of a baby chick peeking out from his mother's wing." height=200vh><img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/af92b1f8-3c30-46fd-bec2-1119cfeefa70" alt="My Slack Bot responds with the information about potential target audience for a new product using the slash ChatGPT Slack command." height=200vh><br>
 
 - ☁️ Here's a word guessing game I wrote to run on the cloud using an AWS EC2 instance via SSH!<br><br>
-<p>[GitHub - Python Word Guessing Game](https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS)<br><br>
-<img src="https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS/assets/112290345/9f97d3bf-81b6-4f4f-b89f-46b896f2668b" alt="Screenshot showing creation of word guessing game EC2 instance in AWS and command line interfaced used to SSH into instance."></p><br>
+[GitHub - Python Word Guessing Game](https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS)<br><br>
+<img src="https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS/assets/112290345/9f97d3bf-81b6-4f4f-b89f-46b896f2668b" alt="Screenshot showing creation of word guessing game EC2 instance in AWS and command line interfaced used to SSH into instance."><br>
 
 - 👨‍💻 Although I'm not as familiar with Google Cloud Platform as I am with AWS, I did build a WordPress website hosted on a Google Cloud VM instance. Along with learning the basics of how to get a website operating on the cloud, learning HTML and CSS were the initial steps I took towards developing my technical toolkit and igniting my programming passion.<br><br>
-<p>[My Prior Website - SEO Sales Writing](https://seosaleswriting.com)<br><br>
-<img src="https://github.com/NicoleReneNewcomb/NicoleReneNewcomb/assets/112290345/8d390896-95e4-4971-aae2-11945d8f75e1" alt="Screenshot showing the details of my Google Cloud VM on which I run my website."></p><br>
+[My Prior Website - SEO Sales Writing](https://seosaleswriting.com)<br><br>
+<img src="https://github.com/NicoleReneNewcomb/NicoleReneNewcomb/assets/112290345/8d390896-95e4-4971-aae2-11945d8f75e1" alt="Screenshot showing the details of my Google Cloud VM on which I run my website."><br>
   
 
 
