@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - ⚡ A fun fact about me: I love nature documentaries. I also enjoy nest cam videos of mama birds raising their cute chicks.<br><br>
 
+### My Projects
+
 - 🤖 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br><br>
 <p style="line-height: 2.0";>
   <a href="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package">GitHub - AWS Lambda Slack App Bot Project</a><br>
@@ -43,12 +45,9 @@ Here are some ideas to get you started:
 <p>[My Prior Website - SEO Sales Writing](https://seosaleswriting.com)<br><br>
 <img src="https://github.com/NicoleReneNewcomb/NicoleReneNewcomb/assets/112290345/8d390896-95e4-4971-aae2-11945d8f75e1" alt="Screenshot showing the details of my Google Cloud VM on which I run my website."></p><br>
   
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nicolerenenewcomb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolerenenewcomb" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages, Tools, and Skills:</h3>
+
+### Languages, Tools, and Skills:
 <b>Programming Languages</b>: C++, Python, Java<br>
 <b>Web/Database Tech</b>: CSS, HTML, SQL<br>
 <b>Cloud Computing</b>: Amazon Web Services (AWS)<br>
@@ -96,10 +95,15 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Certifications and Courses:</h3>
+### Certifications and Courses:
 <b>AWS Certified Cloud Practitioner</b><br>
 <b>Certification Fundamentals of Agile Project Management</b><br><br>
 
 <b>CodePath - Android Development Pathway (Sep-Nov 2023)</b><br>
 
 <b>Academic Courses</b>: Intro to Programming (C++), Fundamentals of Programming (Java), Object-Oriented Programming (Java), Discrete Math, Intro to Data Structures, Linux Systems, Assembly Language Programming for IBM PC, SQL, MS SQL Server Database Development, Advanced Excel, Intro to GIS (Geographic Information Systems), Intro to Computing with HTML, Data Visualization w/Tableau, Utilizing Statistics for Data, Python Programming, Intro to Web Development<br>
+
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/nicolerenenewcomb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolerenenewcomb" height="30" width="40" /></a>
+</p>
