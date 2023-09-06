@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - ⚡ A fun fact about me: I love nature documentaries. I also enjoy nest cam videos of mama birds raising their cute chicks.<br><br><br>
 
 ### My Projects
-<br>
+
+  
 - 🤖 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br><br><a href="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package">GitHub - AWS Lambda Slack App Bot Project</a><br><a href="https://new.express.adobe.com/webpage/NMa7ztqruDUYf">Adobe Express Page - More Details and Screenshots of App In-Action</a><br><br><img src="https://user-images.githubusercontent.com/112290345/265831988-031f8ac9-0f6c-4952-aaa1-bf3d23216783.png" alt="A painting of a friendly, smiling robot lady assistant wearing a blue dress with a blue parasol." height=200vh><img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/18d37ac5-4bb9-4b12-8768-c4bc24343456" alt="A screenshot of my Slack Bot's response to the slash cuteanimals command with a Slack message including an image of a baby chick peeking out from his mother's wing." height=200vh><img src ="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/assets/112290345/af92b1f8-3c30-46fd-bec2-1119cfeefa70" alt="My Slack Bot responds with the information about potential target audience for a new product using the slash ChatGPT Slack command." height=200vh><br><br><br>
 
 - ☁️ Here's a word guessing game I wrote to run on the cloud using an AWS EC2 instance via SSH!<br><br>
