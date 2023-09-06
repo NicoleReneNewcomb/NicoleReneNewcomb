@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - ☁️ Here's a word-guessing game I wrote to run on the cloud with AWS EC2 instances via SSH!<br>[Python Word-Guessing Game](https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS)<br><img src="https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS/assets/112290345/9f97d3bf-81b6-4f4f-b89f-46b896f2668b" alt="Screenshot showing creation of word guessing game EC2 instance in AWS and command line interfaced used to SSH into instance.">
 
-📫<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolerenenewcomb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolerenenewcomb" height="30" width="40" /></a>
 </p>
