@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### My Projects
 
 - 🤖 Check out my custom Slack App Bot with ChatGPT integration operated as a FaaS model on the cloud through AWS Lambda!<br><br>
-<p style="line-height: 2.0";>
+<p style="padding-left: 5%";>
   <a href="https://github.com/NicoleReneNewcomb/Adobe_Career_Academy_Slack_App_Project/tree/main/Lambda_Deployment_Package">GitHub - AWS Lambda Slack App Bot Project</a><br>
   <a href="https://new.express.adobe.com/webpage/NMa7ztqruDUYf">Adobe Express Page - More Details and Screenshots of App In-Action</a><br>
   <img src="https://user-images.githubusercontent.com/112290345/265831988-031f8ac9-0f6c-4952-aaa1-bf3d23216783.png" alt="A painting of a friendly, smiling robot lady assistant wearing a blue dress with a blue parasol." height=200vh>
