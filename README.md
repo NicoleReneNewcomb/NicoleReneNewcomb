@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 [GitHub - Python Word Guessing Game](https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS)<br><br>
 <img src="https://github.com/NicoleReneNewcomb/Word_Guessing_Game_Python_AWS/assets/112290345/9f97d3bf-81b6-4f4f-b89f-46b896f2668b" alt="Screenshot showing creation of word guessing game EC2 instance in AWS and command line interfaced used to SSH into instance."><br><br><br>
 
-- 👨‍💻 Although I'm not as familiar with Google Cloud Platform as I am with AWS, I did build a WordPress website hosted on a Google Cloud VM instance. Along with learning the basics of how to get a website operating on the cloud, learning HTML and CSS were the initial steps I took towards developing my technical toolkit and igniting my programming passion.<br><br>
-[My Prior Website - SEO Sales Writing](https://seosaleswriting.com)<br><br>
-<img src="https://github.com/NicoleReneNewcomb/NicoleReneNewcomb/assets/112290345/8d390896-95e4-4971-aae2-11945d8f75e1" alt="Screenshot showing the details of my Google Cloud VM on which I run my website."><br><br><br>
+- 👨‍💻 Although I'm not as familiar with Google Cloud Platform as I am with AWS, I did build a WordPress website that I hosted on a Google Cloud Platform VM instance. Along with learning the basics of how to get a website operating on the cloud, learning HTML and CSS were the first steps I took towards developing my technical toolkit and igniting my programming passion.<br><br>
+[GCP VM Instance Website - SEO Sales Writing](https://seosaleswriting.com)<br><br>
+<img src="https://github.com/NicoleReneNewcomb/NicoleReneNewcomb/assets/112290345/8d390896-95e4-4971-aae2-11945d8f75e1" alt="Screenshot showing the details of my Google Cloud VM instance on which I built a WordPress website."><br><br><br>
   
 
 
